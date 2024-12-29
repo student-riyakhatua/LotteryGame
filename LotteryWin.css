@@ -1,0 +1,11 @@
+button{
+    background-color: rgb(236, 172, 193);
+    width: 200px;
+}
+.ticket{
+    border: 2px solid rgb(195, 228, 77);
+    border-radius: 10px;
+}
+p{
+    background-color: aqua;
+}
